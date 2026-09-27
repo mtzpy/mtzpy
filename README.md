@@ -1,10 +1,9 @@
-# Opaa, eu sou o Mateus! 👋
+Opaa, eu sou o Mateus! 👋
 
 🐍 Aprendendo Python
 💻 Mexendo com Tkinter
 🎮 Gosto de programação e jogos
 
-## Meus projetos
-
-- 🎯 Quiz em Python
-- 🧮 Calculadora em Python com Tkinter
+Meus projetos
+🎯 Quiz em Python
+🧮 Calculadora em Python com Tkinter
