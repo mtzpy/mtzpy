@@ -7,4 +7,4 @@
 ## Meus projetos
 
 - 🎯 Quiz em Python
--🧮 Calculadora com Tkinter
+- 🧮 Calculadora em Python com Tkinter
